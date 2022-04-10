@@ -1,0 +1,11 @@
+.cellItem {
+    width: 17px;
+    height: 17px;
+
+    border: 0.5px solid none;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+    transition: background 0.75s;
+}

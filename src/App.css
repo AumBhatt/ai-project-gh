@@ -1,0 +1,39 @@
+.App {
+  width: 95vw;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 10px;
+
+  /* background: red; */
+
+  font-family: consolas;
+  color: white;
+}
+
+.banner {
+  width: 100%;
+
+  text-align: left;
+  font-size: larger;
+  font-style: italic;
+}
+
+.copyRight {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  margin-top: 10px;
+
+  opacity: 0.5;
+
+  font-size: medium;
+
+  color: inherit;
+}
+
