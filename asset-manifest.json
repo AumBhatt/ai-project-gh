@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-project/static/css/main.57088020.css",
+    "main.js": "/ai-project/static/js/main.05dfbede.js",
+    "static/js/787.e333be83.chunk.js": "/ai-project/static/js/787.e333be83.chunk.js",
+    "index.html": "/ai-project/index.html",
+    "main.57088020.css.map": "/ai-project/static/css/main.57088020.css.map",
+    "main.05dfbede.js.map": "/ai-project/static/js/main.05dfbede.js.map",
+    "787.e333be83.chunk.js.map": "/ai-project/static/js/787.e333be83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57088020.css",
+    "static/js/main.05dfbede.js"
+  ]
+}
